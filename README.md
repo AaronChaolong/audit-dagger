@@ -37,7 +37,7 @@
 普通用户无需研究源码，直接下载安装包部署：
 [👉 v1.0.0 正式版安装包发布网页](https://github.com/AaronChaolong/audit-dagger/releases/tag/v1.0.0)  
 一键直下EXE（点开自动下载，无需进入发布网页）：
-[AuditDagger-v1.0.0.exe](https://github.com/AaronChaolong/audit-dagger/releases/download/v1.0.0/Audit-Dagger_v1.0.0.exe)
+[AuditDagger-v1.0.0.exe](https://github.com/AaronChaolong/audit-dagger/releases/download/v1.0.0/Audit-Dagger_v1.0.00.exe)
 
 ## 🌐后续规划与反馈渠道  
 当前仅上线「月度计划高亮」试用功能，收集使用反馈后持续迭代新增工具；  
